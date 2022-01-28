@@ -225,6 +225,21 @@ color: white;
     max-height: 604px;
     background-size: cover;
 }
+.pps-zag{
+margin-top: 48px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+text-align: center;
+color: #007765;
+}
+.pps-logo-pic{
+    padding-right: 48px;
+    float: left;
+}
 .button_1 {
     width: 115px;
     height: 115px;
@@ -247,22 +262,6 @@ color: white;
     box-shadow: none;
     transform: translateY(5px) translateX(5px);
   }
-
-.pps-zag{
-margin-top: 48px;
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 64px;
-line-height: 75px;
-/* identical to box height */
-text-align: center;
-color: #007765;
-}
-.pps-logo-pic{
-    padding-right: 48px;
-    float: left;
-}
 .pps-content{
     font-family: Roboto;
 font-style: normal;
